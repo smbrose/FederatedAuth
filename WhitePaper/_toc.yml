@@ -4,8 +4,8 @@
 format: jb-book
 root: introduction
 chapters:
-  - file: understanding-federated-identity
-    title: "Understanding Federated Identity: Core Concepts and Protocols"
+  - file: Federated-EO-Access
+    title: "Federated EO Access: Executive Overview & Introduction"
   - file: use-cases-definition
     title: "Use Cases Definition"
   - file: centralised-vs-decentralised
