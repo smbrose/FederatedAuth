@@ -7,6 +7,9 @@ This chapter introduces the evolving landscape of digital and unified Earth Obse
 ## Terms and Definitions
 
 ```{glossary}
+DCS
+    Data Centric Security
+
 DID
     Decentralized identifier
 
