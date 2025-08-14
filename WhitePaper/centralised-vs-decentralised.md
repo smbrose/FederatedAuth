@@ -22,7 +22,7 @@ TBD
 
 
 The OGC Testbed-20 and OGC Testbed-21 activities included specific tasks related to Integrity, Prevenance and Trust (IPT).
-The Engineering Report OGC 21-025 {cite}`OGC_21-025` presents a number of IPT use cases that were explored and prototyped during the Testbed-20 activities. The objective was to propose new IPT building blocks that are aligned with existing OGC building blocks (API) and adhere to FAIR principles.  
+The Engineering Report OGC 24-033 {cite}`OGC_24-033` presents a number of IPT use cases that were explored and prototyped during the Testbed-20 activities. The objective was to propose new IPT building blocks that are aligned with existing OGC building blocks (API) and adhere to FAIR principles.  
 
 ### Decentralized identifiers
 
@@ -78,7 +78,7 @@ rect rgb(125,125,125,.2)
     v -->> v: Check VP signatures
 end
 ```
-Figure 1 - Verification of VC and VP (OGC 21-025)
+Figure 1 - Verification of VC and VP (OGC 24-033)
 
 For examples of the various artifacts, we refer to the Engineering Report:
 
@@ -88,7 +88,7 @@ For examples of the various artifacts, we refer to the Engineering Report:
 
 ### Additional topics
 
-Other Self-Sovereign Identity (SSI) aspects with W3C compliant VC/VP were identified as future work in the Engineering Report OGC 21-025 {cite}`OGC_21-025`:
+Other Self-Sovereign Identity (SSI) aspects with W3C compliant VC/VP were identified as future work in the Engineering Report OGC 24-033 {cite}`OGC_24-033`:
 
 - Integration with OpenID Connect (OIDC) and OAuth: “OpenID for VC/VP” (OID4VC, OID4VP) {cite}`OIDC_VC`.
 - Decentralized Identifiers for individuals (“natural persons”), recorded in a “wallet.” In Testbed 20, EO use cases were limited to “legal persons” (DID recorded in a Registry instead of a wallet).
