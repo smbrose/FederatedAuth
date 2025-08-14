@@ -21,7 +21,7 @@ TBD
 ## Integrity Provenance and Trust
 
 
-The OGC Testbed-20 and OGC Testbed-21 activities included specific tasks related to Integrity, Prevenance and Trust (IPT).
+The OGC Testbed-20 and OGC Testbed-21 activities included specific tasks related to Integrity, Provenance and Trust (IPT).
 The Engineering Report OGC 24-033 {cite}`OGC_24-033` presents a number of IPT use cases that were explored and prototyped during the Testbed-20 activities. The objective was to propose new IPT building blocks that are aligned with existing OGC building blocks (API) and adhere to FAIR principles.  
 
 ### Decentralized identifiers
