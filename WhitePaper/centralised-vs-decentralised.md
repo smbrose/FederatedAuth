@@ -9,11 +9,11 @@ TBD
 
 - Self-Sovereign Identity
 
-- “Provenance :information about entities, activities, and people involved in producing a piece of data or thing, which can be used to form assessments about its quality, reliability or trustworthiness”. [W3C PROV](https://www.w3.org/TR/prov-overview/).
+- “Provenance is information about entities, activities, and people involved in producing a piece of data or thing, which can be used to form assessments about its quality, reliability or trustworthiness”. SOURCE: [W3C PROV](https://www.w3.org/TR/prov-overview/).
 
-- “Data integrity is the opposite of data corruption. The overall intent of any data integrity technique is the same: ensure data is recorded exactly as intended” [Wikipedia](https://en.wikipedia.org/wiki/Data_integrity).
+- “Data integrity is the opposite of data corruption. The overall intent of any data integrity technique is the same: ensure data is recorded exactly as intended”. SOURCE: [Wikipedia](https://en.wikipedia.org/wiki/Data_integrity).
 
-- “Trust is the characteristic that one entity is willing to rely upon a second entity to execute a set of actions and/or to make set of assertions about a set of subjects and/or scopes” [OASIS](https://docs.oasis-open.org/wss-m/wss/v1.1.1/os/wss-SOAPMessageSecurity-v1.1.1-os.html).
+- “Trust is the characteristic that one entity is willing to rely upon a second entity to execute a set of actions and/or to make set of assertions about a set of subjects and/or scopes”.  SOURCE: [OASIS](https://docs.oasis-open.org/wss-m/wss/v1.1.1/os/wss-SOAPMessageSecurity-v1.1.1-os.html).
 
 
 
