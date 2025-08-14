@@ -8,7 +8,7 @@ This chapter introduces the evolving landscape of digital and unified Earth Obse
 
 ```{glossary}
 DID
-    Decentralized identity
+    Decentralized identifier
 
 EO
     Earth Observation
