@@ -54,3 +54,4 @@ W3C
 ## The Federated Solution: Authentication & Authorization 
 
 ## Purpose & Audience
+Federation facilitates collaboration by simplifying interorganizational access to EO data but also brings challenges such as dealing with legal and compliance issues.
