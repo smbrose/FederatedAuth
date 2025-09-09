@@ -8,5 +8,7 @@ The formatted document is available as [![Jupyter Book Badge](https://jupyterboo
 [https://ceos-org.github.io/FederatedAuth](https://ceos-org.github.io/FederatedAuth)
 
 
+TODO: Link to deployed book 
+
 ## Introduction
 1. test
